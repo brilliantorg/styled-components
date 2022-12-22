@@ -1,3 +1,18 @@
+# :warning: Brilliant Fork Information :alert:
+
+In the process of porting the Quantum Circuit interactive to V3, we discovered that the SPEEDY version of this library does not play nicely with rendering in the ShadowDOM.
+
+This fork makes a change to the version we relied on (v3.3.3), such that the SPEEDY MODE is disabled.
+
+- They provided an option to disable SPEEDY_MODE in version [4.3.0](https://styled-components.com/releases#v4.3.0), but to upgrade would require upgrading all of react, so that doesn't make sense.
+
+See:
+  - https://github.com/brilliantorg/brilliant/pull/17827
+
+
+
+# The rest is the original README:
+
 <div align="center">
   <a href="https://www.styled-components.com">
     <img alt="styled-components" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" height="150px" />
