@@ -1,3 +1,13 @@
+# :warning: Brilliant Fork Information
+
+
+We use a specific branch of this, forked from version 3.3.3
+
+See readme in tag [v3.3.3-brilliant](https://github.com/brilliantorg/styled-components/releases/tag/v3.3.3-brilliant) on branch [strickinato/remove-speedy-mode-from-the-brilliant-branch](https://github.com/brilliantorg/styled-components/tree/strickinato/remove-speedy-mode-from-the-brilliant-branch).
+
+
+# Below this is original readme
+
 <div align="center">
   <a href="https://www.styled-components.com">
     <img alt="styled-components" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" height="150px" />
